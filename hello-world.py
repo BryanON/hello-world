@@ -7,3 +7,5 @@ for item in l:
 
 print "Goodbye World..."
 # Adding a comment line
+# Adding a comment line
+# Adding a comment with a twist
